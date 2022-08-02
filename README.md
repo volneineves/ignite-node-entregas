@@ -20,6 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Prisma](https://www.prisma.io/docs/reference/api-reference/command-reference/)
 - [Bcrypt](https://www.npmjs.com/package/bcrypt/)
 - [Express](http://expressjs.com/pt-br/)
+- [express-async-errors](https://www.npmjs.com/package/express-async-errors/)
 - [ts-node-dev](https://www.npmjs.com/package/ts-node-dev/)
 
 ## 🚀 Como executar
